@@ -67,6 +67,3 @@ This tool uses Random Forest classifiers because they:
 
 This tool is meant to be your assistant, not your replacement! Always use your medical expertise and judgment. This is just a really smart second opinion.
 
-## License
-
-Feel free to use this under the MIT License. Just don't sue us if it suggests chicken soup for a broken leg!
